@@ -2,6 +2,9 @@
   "name": "scheduler-component",
   "version": "0.1.0",
   "private": true,
+  "engines":{
+    "node": "14.16.1"
+  },
   "dependencies": {
     "@syncfusion/ej2-react-schedule": "^19.1.59",
     "@testing-library/jest-dom": "^5.12.0",
