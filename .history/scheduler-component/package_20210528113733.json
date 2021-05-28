@@ -6,7 +6,7 @@
     "npm": "6.14.12",
     "node": "14.16.1"
   },
-  "homepage": "/public",
+  "homepage": "/public/index.html",
   "dependencies": {
     "@syncfusion/ej2-react-schedule": "^19.1.59",
     "@testing-library/jest-dom": "^5.12.0",
